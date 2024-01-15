@@ -6,7 +6,8 @@
 - 📫 How to reach me ...
 - ♻️ Je suis heureux de partager et de communiquer avec vous !
 
-<a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
+![image](https://github.com/GLALAN/GLALAN/assets/132501823/b8f7b588-dd9f-470b-ae87-4f92456599d0)
+
 <!---
 GLALAN/GLALAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
