@@ -5,7 +5,30 @@
   automatisation de l'internet et des objets connectés..
 - 📫 How to reach me ...
 - ♻️ Je suis heureux de partager et de communiquer avec vous !
+  
 ![bootstrap](https://github.com/GLALAN/GLALAN/assets/132501823/5ce2bd2b-246b-4fb5-8bdb-34083fd881df)
+![js](https://github.com/GLALAN/GLALAN/assets/132501823/09132b23-8670-491a-b8d1-f703a14a6fb7)
+![css-3](https://github.com/GLALAN/GLALAN/assets/132501823/fd91f3ef-a520-4a81-aa8e-e17865c6a712)
+![photoshop](https://github.com/GLALAN/GLALAN/assets/132501823/42408488-3afc-4912-9632-62b3c39d93fe)
+![figma](https://github.com/GLALAN/GLALAN/assets/132501823/46187f33-fbb4-4671-b711-81d55df26906)
+![minus](https://github.com/GLALAN/GLALAN/assets/132501823/718cceb2-68ce-4ac1-ba43-0c9a0d1847df)
+![python (1)](https://github.com/GLALAN/GLALAN/assets/132501823/24c9a440-f0fa-4171-9419-a71f82239eef)
+![html5](https://github.com/GLALAN/GLALAN/assets/132501823/1a02f17a-1765-49cb-997d-9b8a0d2c77c2)
+![ilustrator](https://github.com/GLALAN/GLALAN/assets/132501823/7a6f3d62-e919-43a1-a7d2-c00dfaac17ef)
+![mysql (1)](https://github.com/GLALAN/GLALAN/assets/132501823/5aff8b6f-e3b1-4b37-aa68-42ef97fba5f9)
+![database](https://github.com/GLALAN/GLALAN/assets/132501823/c7d0f2e4-c32e-4fea-a1eb-e641ffdef50f)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
